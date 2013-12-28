@@ -3,20 +3,6 @@
 SVProgressHUD(+Kustom) is ( Customization Category on top of a ) clean and easy-to-use HUD meant to display the progress of an ongoing task.
 
 
-![SVProgressHUD-iOS7](http://f.cl.ly/items/1U0T1W0q0u2Z213k1n0o/SVProgressHUD.png)
-
-![SVProgressHUD-iOS6](http://f.cl.ly/items/3r2x0b1E1O2F0V422a3R/screenshots2.png)
-
-## Installation
-
-### From CocoaPods
-
-Add `pod 'SVProgressHUD+Kustom'` to your Podfile or `pod 'SVProgressHUD+Kustom', :head` if you're feeling adventurous.
-
-### Manually
-
-
-
 ## Usage
 
 
